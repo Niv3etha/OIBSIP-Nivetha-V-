@@ -80,7 +80,7 @@ public class ATMExample {
             }
             else
             {
-                System.out.println("Transferred Failed");   
+                System.out.println("Transfer Failed");   
             }
             
         case 5:
